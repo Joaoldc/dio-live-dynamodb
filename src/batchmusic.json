@@ -30,7 +30,7 @@
                 }
             }
         },
-        }
+        {
             "PutRequest": {
                 "Item": {
                   "Artist": {"S": "Iron Maiden"},
